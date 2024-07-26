@@ -1,0 +1,1 @@
+This is the HR Analytics dashboard using Power BI for Employee -> Attrition by Education, by Age, by Gender, by Salary, by Job roles, by job satisfaction based on job roles, and by work experience at a company. 
